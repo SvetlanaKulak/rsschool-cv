@@ -28,3 +28,7 @@ I am experienced IT recruiter and now I want to change my carrier way, that's wh
         </ol>
     </a>
 ```
+## Education
+* **Russian Academy of National Economy and Public Administration (RANEPA)**
+  * Human Resourses Management
+  
