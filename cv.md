@@ -31,6 +31,8 @@ I am experienced IT recruiter and now I want to change my carrier way, that's wh
 ## Education
 * **Russian Academy of National Economy and Public Administration (RANEPA)**
   * Human Resourses Management
+* **Burgundy School of Business (BSB)** (France, Dijon)
+  * Management (Exchange program for 1 semestre, English track)
 
 ## Languages
 * **Russian** - Native
