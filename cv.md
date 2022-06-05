@@ -31,4 +31,8 @@ I am experienced IT recruiter and now I want to change my carrier way, that's wh
 ## Education
 * **Russian Academy of National Economy and Public Administration (RANEPA)**
   * Human Resourses Management
-  
+
+## Languages
+* **Russian** - Native
+* **English** - Intermediate
+* **French** - Beginner
