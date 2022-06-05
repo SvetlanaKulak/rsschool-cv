@@ -17,3 +17,14 @@ I am experienced IT recruiter and now I want to change my carrier way, that's wh
 * Good organizational skills, self-motivating, flexibility, attention to details;
 * Strong communication (verbal and written) and interpersonal skills;
 * Experience in IT sector with excellent IT market knowledge in Russia market.
+
+## Code examples
+```html
+    <a>
+        <h1>как почистить апельсин</h1>
+        <ol>
+            <li>Взять апельсин</li>
+            <li>почистить</li>
+        </ol>
+    </a>
+```
